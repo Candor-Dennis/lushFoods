@@ -1,0 +1,33 @@
+body{
+	font-family: 'Kaushan Script', cursive;
+	font-size: 20px;
+}
+
+.header-text{
+	color: rgba(255,118,0, 0.8);
+}
+
+
+
+.hero{
+	background: linear-gradient(to right,rgba(255,118,0,0.3),rgba(127,139,82,0.8)), url(../../assets/food2.jpg) no-repeat center center fixed;
+	background-size: cover;
+	
+	
+}
+
+.client-img{
+	width: 50px;
+	height: 50px;
+}
+
+.second-bg{
+	background:linear-gradient(to right, rgba(94,69,75, 0.7), rgba(187,55,26, 0.7)), url(../../assets/cover2.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+.space{
+	letter-spacing: 5px;
+}
+.btn-color{
+	background-color:rgba(187,55,26);
+}
